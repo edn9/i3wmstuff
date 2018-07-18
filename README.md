@@ -45,6 +45,6 @@ I also use another script called `resize-font`[*](https://github.com/simmel/urxv
 + And then, this line in your .Xresources.
 > URxvt.perl-ext-common: resize-font
 
-+ Video example of how its gonna look: (soon)
++ [Video example of how its gonna look like.](https://i.imgur.com/c0Mudex.mp4)
 
 You can alread get all of this config in my files on top of this page. This is just a little tutorial to make it easyer(?) for novice users. Good ricing and good luck!
