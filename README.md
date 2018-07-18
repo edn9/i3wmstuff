@@ -11,7 +11,7 @@ All programs can be found in your distro repository, if not, try searching here 
 
 + WM: i3-gaps ([i3scripts](https://github.com/justbuchanan/i3scripts), i3exit, i3blocks, [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen))
 + Bar: i3bar (i3status with fontawesome, icomoon, [necrofont](https://github.com/necronoise/necrofont) and autorename_script,this one is with i3scripts)
-+ Terminal: urxvt ([urxvt-resize-font](https://github.com/simmel/urxvt-resize-font))
++ Terminal: urxvt ([urxvt-resize-font](https://github.com/simmel/urxvt-resize-font), `font: TerminessTTF Nerd Font Mono in aur nerd-fonts-terminus`)
 + Colors: [pywal](https://github.com/dylanaraps/pywal)
 + Nitrogen (to make the wallpaper as you desktop wall)
 + [vilfetch](https://github.com/necronoise/vilfetch)
