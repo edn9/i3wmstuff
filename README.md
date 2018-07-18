@@ -1,4 +1,4 @@
-# eyes of silent
+# eyes of hill
 My personal and first dotfiles.
 
 ------
