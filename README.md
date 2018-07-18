@@ -38,6 +38,7 @@ The last one, Terminal.
 > wal -i /home/user/path/to/wallpaper.png
 
 + Then to make it fix (stay after reboot) you will need to put `wal -r` at the end of the `.xinitrc`. 
++ Also some colors and effects are all in `.Xresources (put it in /home/user/)` and `compton.conf (put it in /home/user/.config/)`.
 
 I also use another script called `resize-font`[*](https://github.com/simmel/urxvt-resize-font) to make the terminal look tiny, it also can serve as zoom in zoom out for the letters, its pretty good! (The font-resize need to be in `/home/user/.urxvt/ext/`.
 
